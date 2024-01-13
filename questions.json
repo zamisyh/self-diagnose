@@ -1,0 +1,22 @@
+{
+    "questions": [
+        {"question": "Apakah Anda sering merasakan nyeri atau terbakar di bagian tengah dada?", "related_to": ["GERD"]},
+        {"question": "Apakah Anda sering merasa kembung atau penuh setelah makan?", "related_to": ["GERD"]},
+        {"question": "Apakah Anda mengalami kesulitan menelan?", "related_to": ["GERD"]},
+        {"question": "Apakah Anda sering bersendawa?", "related_to": ["GERD"]},
+        {"question": "Apakah Anda sering merasa pahit di mulut?", "related_to": ["GERD"]},
+        {"question": "Apakah Anda sering mual atau muntah setelah makan?", "related_to": ["GERD"]},
+        {"question": "Apakah Anda mengalami penurunan berat badan tanpa alasan yang jelas?", "related_to": ["GERD"]},
+        {"question": "Apakah Anda sering merasa lapar meskipun baru makan?", "related_to": ["GERD", "Maag"]},
+        {"question": "Apakah Anda sering batuk atau tenggorokan terasa sakit?", "related_to": ["GERD"]},
+        {"question": "Apakah Anda mengalami perubahan pada pola buang air besar?", "related_to": ["GERD", "Maag"]},
+        {"question": "Apakah Anda merasa nyeri pada bagian atas perut?", "related_to": ["Maag"]},
+        {"question": "Apakah Anda sering bersendawa atau merasa asam di tenggorokan setelah makan?", "related_to": ["Maag"]},
+        {"question": "Apakah Anda mengalami perut terasa kosong atau lapar terus-menerus?", "related_to": ["Maag"]},
+        {"question": "Apakah Anda sering muntah atau ingin muntah setelah makan?", "related_to": ["Maag"]},
+        {"question": "Apakah Anda sering merasa tidak nyaman atau kembung di perut?", "related_to": ["Maag"]},
+        {"question": "Apakah Anda mengalami penurunan nafsu makan?", "related_to": ["Maag"]},
+        {"question": "Apakah Anda merasa kesulitan menelan makanan?", "related_to": ["Maag"]},
+        {"question": "Apakah Anda mengalami perubahan berat badan yang tidak diinginkan?", "related_to": ["Maag"]}
+    ]
+}
